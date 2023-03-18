@@ -8,7 +8,7 @@ Date:  3/18/2023
 
 ## Dataset
 
-The dataset can be found at for this project can be found at: https://corgis-edu.github.io/corgis/csv/broadway/
+The dataset for this project can be found at: https://corgis-edu.github.io/corgis/csv/broadway/
 
 
 The dataset was originally gather by the Broadway League.  https://www.broadwayleague.com/home/

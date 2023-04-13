@@ -17,3 +17,5 @@ The dataset was originally gathered by the Broadway League.  https://www.broadwa
 ## Report
 
 The overleaf report can be found at: https://www.overleaf.com/read/qwjkgksxjndz
+
+All screenshots and images can be found at: https://github.com/lwood7983/L.Wood_Final_Capstone_Project/tree/main/images

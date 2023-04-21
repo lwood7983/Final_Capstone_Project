@@ -7,7 +7,7 @@ Date:  3/18/2023
 
 ## Project Overview
 
-The purpose of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was use machine learning models to predict gross.  
+The purpose of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was to use machine learning models to predict gross.  
 
 ## Project Plan Steps
 
@@ -29,7 +29,7 @@ The dataset was originally gathered by the Broadway League.  https://www.broadwa
 
 ## Report
 
-The overleaf report can be found at: https://www.overleaf.com/read/qwjkgksxjndz
+The overleaf report can be found at: https://www.overleaf.com/read/qwjkgksxjndz.  This is the full report for the project and includes steps taken and the details of the analysis and results.
 
 All screenshots and images used in the report can be found at: https://github.com/lwood7983/L.Wood_Final_Capstone_Project/tree/main/images
 
@@ -45,7 +45,7 @@ Additional resources cited in the report can be found at:
 - https://www.broadwayleague.com/research/statistics-broadway-nyc/
 
 ## Before you begin
-This project used both Excel and Python via a Juypter Notebook  for the analysis.  Before you start, be sure you have the following installed.
+This project used both Excel and Python via a Juypter Notebook for the analysis.  Before you start, be sure you have the following installed.
 
 - Python: https://www.python.org/downloads/
 - pandas: https://pandas.pydata.org/docs/getting_started/install.html

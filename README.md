@@ -33,6 +33,16 @@ Additional resources cited in the report can be found at:
 - https://www.bls.gov/cpi/",
 - https://www.broadwayleague.com/research/statistics-broadway-nyc/
 
+## File Descriptions
+
+- L_Wood__Capstone_Project_Report.pdf:  This is the pdf version of the project report.
+- original_broadway.csv:  The original dataset for the project in csv format.  The file can be found at:  https://corgis-edu.github.io/corgis/csv/broadway/
+- broadway_clean.xlxs:  The excel file used for data cleaning.  This file also contains some visualizations.
+- broadway_clean_inflation.xlxs:  The excel file used to perform additional analysis to understand what impact, if any, inflation had on gross.
+- Capstone_results.xlxs:  The excel file where the results from the regression models were stored.  The file also contains some visualizations.
+- Capstone_lwood.ipynb:  The jupyter notebook used to perform Python coding.  The coding included data cleaning, machine learning, and visualizations.
+- images:  This folder contains all of the images and screeenshots used in the report.
+
 ## Resources
 
 Below are links to some tutorials that were used to assist in building this report.

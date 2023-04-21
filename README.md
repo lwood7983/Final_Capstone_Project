@@ -84,6 +84,13 @@ The second possible impact was attendance.  A scatter plot comparing gross and a
 
 ![gross_att_scatter](images/scatter_gross&attend.png)
 
+## Project Limitations
+Some project limitations were:
+
+- The dataset was limited to only August 1990 - August 2016.
+- The dataset did not include any years during or post Covid.
+
+
 ## Future Work Ideas
 Some future work ideas are:
 

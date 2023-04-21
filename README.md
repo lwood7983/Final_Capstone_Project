@@ -5,7 +5,9 @@ Captone Project Report - Factors for Success on Broadway
 Author: Loni J Woood
 Date:  3/18/2023
 
+## Project Overview
 
+The objective of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was use machine learning models to predict gross.    
 
 
 ## Dataset
@@ -33,15 +35,18 @@ Additional resources cited in the report can be found at:
 - https://www.bls.gov/cpi/",
 - https://www.broadwayleague.com/research/statistics-broadway-nyc/
 
+
+
 ## File Descriptions
 
-- L_Wood__Capstone_Project_Report.pdf:  This is the pdf version of the project report.
+- L_Wood__Capstone_Project_Report.pdf:  This is the pdf version of the project report.  The overleaf report can be found at: https://www.overleaf.com/read/qwjkgksxjndz
 - original_broadway.csv:  The original dataset for the project in csv format.  The file can be found at:  https://corgis-edu.github.io/corgis/csv/broadway/
 - broadway_clean.xlxs:  The excel file used for data cleaning.  This file also contains some visualizations.
 - broadway_clean_inflation.xlxs:  The excel file used to perform additional analysis to understand what impact, if any, inflation had on gross.
 - Capstone_results.xlxs:  The excel file where the results from the regression models were stored.  The file also contains some visualizations.
-- Capstone_lwood.ipynb:  The jupyter notebook used to perform Python coding.  The coding included data cleaning, machine learning, and visualizations.
-- images:  This folder contains all of the images and screeenshots used in the report.
+- Capstone_lwood.ipynb:  The jupyter notebook used to perform Python coding.  The coding included data cleaning, machine learning, and visualizations.  Link to the notebook is at: https://github.com/lwood7983/L.Wood_Final_Capstone_Project/blob/84b81d88ab61b1bd3d8d0c3b8600500038c1639d/Capstone_lwood.ipynb
+- images:  This folder contains all of the images and screeenshots used in the report. Link to the images folder is at: https://github.com/lwood7983/L.Wood_Final_Capstone_Project/tree/main/images
+
 
 ## Resources
 

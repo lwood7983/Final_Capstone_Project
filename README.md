@@ -9,6 +9,16 @@ Date:  3/18/2023
 
 The purpose of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was use machine learning models to predict gross.  
 
+## Project Plan Steps
+
+1.  Create GitHub Respository
+2.  Define Domain and Question
+3.  Data Collection  
+4.  Data Review and Cleaning
+5.  Exploratory Data Analysis
+6.  Machine Learning
+7.  Analyze Findings
+
 ## Dataset
 
 The dataset for this project can be found at: https://corgis-edu.github.io/corgis/csv/broadway/

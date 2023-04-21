@@ -7,8 +7,7 @@ Date:  3/18/2023
 
 ## Project Overview
 
-The objective of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was use machine learning models to predict gross.    
-
+The purpose of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was use machine learning models to predict gross.  
 
 ## Dataset
 
@@ -35,7 +34,18 @@ Additional resources cited in the report can be found at:
 - https://www.bls.gov/cpi/",
 - https://www.broadwayleague.com/research/statistics-broadway-nyc/
 
+## Before you begin
+This project used both Excel and Python via a Juypter Notebook  for the analysis.  Before you start, be sure you have the following installed.
 
+- Python: https://www.python.org/downloads/
+- pandas: https://pandas.pydata.org/docs/getting_started/install.html
+- numpy : https://www.youtube.com/watch?v=Z7L72qqFtn8
+- matplotlib.pyplot: https://matplotlib.org/stable/users/installing/index.html
+- seaborn: https://seaborn.pydata.org/installing.html
+- scipy: https://scipy.org/install/
+- scikit-learn: https://scikit-learn.org/stable/install.html
+- jupyterlab:  https://jupyter.org/install
+- Excel:  https://www.microsoft.com/en-us/microsoft-365/excel
 
 ## File Descriptions
 

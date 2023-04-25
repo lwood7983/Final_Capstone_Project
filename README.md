@@ -2,7 +2,7 @@
 
 Captone Project Report - Factors for Success on Broadway
 
-Author: Loni J Woood
+Author: Loni J Wood
 Date:  4/25/2023
 
 ## Project Overview

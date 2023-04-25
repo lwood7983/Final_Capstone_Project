@@ -70,17 +70,17 @@ This project used both Excel and Python via a Juypter Notebook for the analysis.
 
 ## Project Results
 
-Linear regression, multiple regression, polynomial with degree 2, polynomial with degree 3, elastic net regression with degrees 3 and 8 were used to predict gross.  Each of the models were ran with and without attendance as an independent variable.  The reason was due to attendance being an unknown factor in advance.  Overall the polynomial with degree 2, or quadratic polynomial, performed the best in predicting gross in either scenario. Multiple regression performed the worst and had the highest RMSE and R^2 scores in both scenarios.  While polynomial regression with degree 3, or cubic polynomial, performed relatively the same as the quadratic polynomial,  there was slight overfitting.  Overfitting can cause problems when using new data sets since the model begins to lose its ability to generalize.
+Linear regression, multiple regression, polynomial with degree 2, polynomial with degree 3, elastic net regression with degrees 3 and 8 were used to predict gross sales.  Each of the models were ran with and without attendance as an independent variable.  The reason was due to attendance being an unknown factor in advance.  Overall the polynomial with degree 2, or quadratic polynomial, performed the best in predicting gross sales in either scenario. Multiple regression performed the worst and had the highest RMSE and R^2 scores in both scenarios.  While polynomial regression with degree 3, or cubic polynomial, performed relatively the same as the quadratic polynomial,  there was slight overfitting.  Overfitting can cause problems when using new data sets since the model begins to lose its ability to generalize.
 
 ![Results_with_attendance ](images/conclusion_ind.png)
 ![Results_without_attendance](images/conclusion_noatt.png)
 
 
-A deeper analysis was done to identify what was impacting the increase in gross over the years.  Two possible impacts were investigated: inflation and attendance.  The first possible impact was around inflation.  The consumer price index was used to calculated the adjusted inflated average ticket price vs the average ticket price per year.  When inflation was removed, there was a minimal upward trend in ticket price when compared to the average ticket price. 
+A deeper analysis was done to identify what was impacting the increase in gross sales over the years.  Two possible impacts were investigated: inflation and attendance.  The first possible impact was around inflation.  The consumer price index was used to calculated the adjusted inflated average ticket price vs the average ticket price per year.  When inflation was removed, there was a minimal upward trend in ticket price when compared to the average ticket price. 
 
 ![Inflation_scatter](images/avgtickettrend_inflation.png)
 
-The second possible impact was attendance.  A scatter plot comparing gross and attendance revealed that both have an upward trend with a big growth around 2016-2017.  The jump could be a related to the cleanup discussed in the article at https://www.city-journal.org/html/unexpected-lessons-times-square\%E2\%80\%99s-comeback-12235.html.  The scatter plot also showed that even with attendance declining the gross still was increasing.  What was discovered with these gross impact factors is that inflation is a key part in the increaseing gross, but attendance, which is a non-inflation factor, also has an impact.
+The second possible impact was attendance.  A scatter plot comparing gross sales and attendance revealed that both have an upward trend with a big growth around 2016-2017.  The jump could be a related to the cleanup discussed in the article at https://www.city-journal.org/html/unexpected-lessons-times-square\%E2\%80\%99s-comeback-12235.html.  The scatter plot also showed that even with attendance declining the gross still was increasing.  What was discovered with these gross sales impact factors is that inflation is a key part in the increaseing gross sales, but attendance, which is a non-inflation factor, also has an impact.
 
 ![gross_att_scatter](images/scatter_gross&attend.png)
 

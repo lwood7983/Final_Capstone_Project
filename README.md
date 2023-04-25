@@ -7,7 +7,7 @@ Date:  3/18/2023
 
 ## Project Overview
 
-The purpose of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was to use machine learning models to predict gross.  
+The purpose of this project was to discover what factors make a successful show on Broadway.  In order to determine success, the goal was to use machine learning models to predict gross sales.  
 
 ## Project Plan Steps
 

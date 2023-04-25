@@ -95,7 +95,7 @@ Some project limitations were:
 Some future work ideas are:
 
 - Understand what impact reviews have on the success of a show.  This could be done using sentiment analysis from social media or newpapers.
-- Understand what impact Covid had on the independent variables and how it impacted the gross.
+- Understand what impact Covid had on the independent variables and how it impacted the gross sales.
 - Understand if Tony Awards have any impact on the success of a show or if a successful show wins a Tony Award.
 - Understand if the lead performers in a show impact its success.
 
